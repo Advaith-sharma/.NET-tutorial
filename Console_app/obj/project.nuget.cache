@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "txiP+QxGvfY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Advaith Sharma\\Desktop\\Internship_ NatureMark Systems\\.NET tutorial\\Console_app\\Console_app.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Advaith Sharma\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

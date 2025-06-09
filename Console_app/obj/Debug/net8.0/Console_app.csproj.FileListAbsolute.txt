@@ -1,0 +1,17 @@
+C:\Users\Advaith Sharma\Desktop\Internship_ NatureMark Systems\.NET tutorial\Console_app\obj\Debug\net8.0\Console_app.csproj.AssemblyReference.cache
+C:\Users\Advaith Sharma\Desktop\Internship_ NatureMark Systems\.NET tutorial\Console_app\obj\Debug\net8.0\Console_app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Advaith Sharma\Desktop\Internship_ NatureMark Systems\.NET tutorial\Console_app\obj\Debug\net8.0\Console_app.AssemblyInfoInputs.cache
+C:\Users\Advaith Sharma\Desktop\Internship_ NatureMark Systems\.NET tutorial\Console_app\obj\Debug\net8.0\Console_app.AssemblyInfo.cs
+C:\Users\Advaith Sharma\Desktop\Internship_ NatureMark Systems\.NET tutorial\Console_app\obj\Debug\net8.0\Console_app.csproj.CoreCompileInputs.cache
+C:\Users\Advaith Sharma\Desktop\Internship_ NatureMark Systems\.NET tutorial\Console_app\bin\Debug\net8.0\Console_app.exe
+C:\Users\Advaith Sharma\Desktop\Internship_ NatureMark Systems\.NET tutorial\Console_app\bin\Debug\net8.0\Console_app.deps.json
+C:\Users\Advaith Sharma\Desktop\Internship_ NatureMark Systems\.NET tutorial\Console_app\bin\Debug\net8.0\Console_app.runtimeconfig.json
+C:\Users\Advaith Sharma\Desktop\Internship_ NatureMark Systems\.NET tutorial\Console_app\bin\Debug\net8.0\Console_app.dll
+C:\Users\Advaith Sharma\Desktop\Internship_ NatureMark Systems\.NET tutorial\Console_app\bin\Debug\net8.0\Console_app.pdb
+C:\Users\Advaith Sharma\Desktop\Internship_ NatureMark Systems\.NET tutorial\Console_app\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Advaith Sharma\Desktop\Internship_ NatureMark Systems\.NET tutorial\Console_app\obj\Debug\net8.0\Console_.D96715F8.Up2Date
+C:\Users\Advaith Sharma\Desktop\Internship_ NatureMark Systems\.NET tutorial\Console_app\obj\Debug\net8.0\Console_app.dll
+C:\Users\Advaith Sharma\Desktop\Internship_ NatureMark Systems\.NET tutorial\Console_app\obj\Debug\net8.0\refint\Console_app.dll
+C:\Users\Advaith Sharma\Desktop\Internship_ NatureMark Systems\.NET tutorial\Console_app\obj\Debug\net8.0\Console_app.pdb
+C:\Users\Advaith Sharma\Desktop\Internship_ NatureMark Systems\.NET tutorial\Console_app\obj\Debug\net8.0\Console_app.genruntimeconfig.cache
+C:\Users\Advaith Sharma\Desktop\Internship_ NatureMark Systems\.NET tutorial\Console_app\obj\Debug\net8.0\ref\Console_app.dll
